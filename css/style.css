@@ -6,6 +6,7 @@ body {
     display: flex;
     flex-direction: column;
     font-size: 62.5%;
+    letter-spacing: 0.1em;
     background: rgb(255, 255, 255);
     font-family: 'Abril Fatface', cursive;
 }
